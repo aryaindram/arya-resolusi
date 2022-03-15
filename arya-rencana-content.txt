@@ -1,5 +1,8 @@
 RENCANA KONTEN ARYA
-- JAVASRIPT
+
+- PHP
+ * OOPHP
+ * Framework PHP
+   ^ Symfony
+   ^ Laravel
 - GIT & GITHUB
-- SYMFONY
-- LARAVEL
